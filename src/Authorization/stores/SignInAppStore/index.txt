@@ -1,0 +1,12 @@
+// import { types } from "mobx-state-tree";
+// import { UserBase } from "../models";
+
+// const store = UserBase.create({
+//   userDataBase: [
+//     {
+//       id: 1,
+//       name: "srikanth",
+//       password: 123,
+//     },
+//   ],
+// });
