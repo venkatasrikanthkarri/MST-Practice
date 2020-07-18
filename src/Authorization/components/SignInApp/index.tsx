@@ -39,8 +39,8 @@ class SignIn extends Component<Props> {
       password: this.password,
     });
 
-    // @ts-ignore
-    // console.dir(getSnapshot(userDataBase));
+    //@ts-ignore
+    console.dir(getSnapshot(userDataBase));
     this.clearData();
   }
 
